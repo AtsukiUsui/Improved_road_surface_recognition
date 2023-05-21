@@ -10,7 +10,7 @@
 | 高さ        | 55            | 
 | LiDARの角度 | 17            | 
 
-
+メモ：catの高さは660mmぐらい？
 ### データ
 * [STL](https://github.com/AtsukiUsui/study_of_intensity/blob/main/LiDAR_mount_UTM30-LX/LiDAR_mount_naname.stl)
 * [gx](https://github.com/AtsukiUsui/study_of_intensity/blob/main/LiDAR_mount_UTM30-LX/LiDAR_mount_naname.gx)
