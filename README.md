@@ -1,7 +1,7 @@
 # study_of_intensity
 研究に関するいろいろなことをまとめるためのリポジトリ
 
-# Repositories
+## Repositories
 以下のリポジトリを使って研究を行っている。
 * [study_of_intensity](https://github.com/AtsukiUsui/study_of_intensity)  
 研究に関するいろいろなものをまとめたリポジトリ
@@ -14,3 +14,4 @@
 先行研究のパッケージ
 * [Intensity](https://github.com/AtsukiUsui/Intensity)  
 6Sの研究の際のデータが散らばっているリポジトリ
+
