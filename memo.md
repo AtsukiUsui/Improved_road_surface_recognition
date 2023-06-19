@@ -46,6 +46,11 @@ TFの中身→[farme.pdf](https://github.com/AtsukiUsui/study_of_intensity/blob/
 * rosbagを取る用のlaunchファイル起動  
   Cat：RPLidar,URG,モーター,コントローラを動かす  
   PC ：gmapping,rosbag recordを動かす
-    * TFの中身に地面見る用LIDARがあるのでURDFを書き換える
+    * TFの中身に地面見る用LIDARがあるのでURDFを書き換える→[Catのurdf](https://github.com/CIT-Autonomous-Robot-Lab/raspicat_description/tree/af1665785fdd790ca6eea37dc8c0c34e136a4676)
     * ⇡きちんと適応されているか確認する
     * catでURGとrplidarどっちも使えるか確認する
+* 実機で動かしてrosbag取る→確認する
+* 外でじっけんしてみる（昼・夜中）→どの程度の変化があったのかまとめる
+* 
+* 分離曲線を自動で作るアルゴリズム作る
+* 照度計の値によって分離曲線を変化させるアルゴリズムを作る
