@@ -8,9 +8,14 @@
 | 縦          | 60            | 
 | 横          | 113           | 
 | 高さ        | 55            | 
+| LiDARの取り付け高さ（中間） | 41（(50+32)/2）           | 
 | LiDARの角度 | 17            | 
 
-メモ：catの高さは660mmぐらい？
+LiDARの高さ：706mm  
+（    RaspberryPiCatの高さ（緊急停止スイッチ取付部分）：665  
+    マウントの高さ：41）
+
+
 ### データ
 * [STL](https://github.com/AtsukiUsui/study_of_intensity/blob/main/LiDAR_mount_UTM30-LX/LiDAR_mount_naname.stl)
 * [gx](https://github.com/AtsukiUsui/study_of_intensity/blob/main/LiDAR_mount_UTM30-LX/LiDAR_mount_naname.gx)
