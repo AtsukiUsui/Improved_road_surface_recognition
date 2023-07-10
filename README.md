@@ -1,5 +1,6 @@
-# study_of_intensity
-研究に関するいろいろなことをまとめるためのリポジトリ
+# Improved_road_surface_recognition
+
+20C1019  臼井温希の研究に関するいろいろなことをまとめるためのリポジトリ
 
 ## Repositories
 以下のリポジトリを使って研究を行っている。
