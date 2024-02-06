@@ -13,10 +13,10 @@
   ROSで照度計を動くようにするためのパッケージ
 * [road_surface_recognition pkg](https://github.com/AtsukiUsui/road_surface_recognition)  
 先行研究のパッケージ
-* [road_surface_rosbag](https://github.com/AtsukiUsui/road_surface_rosbag)  
+<!--  [road_surface_rosbag](https://github.com/AtsukiUsui/road_surface_rosbag)  
   実験データを載せてるリポジトリ
-* [Intensity](https://github.com/AtsukiUsui/Intensity)  
+[Intensity](https://github.com/AtsukiUsui/Intensity)  
 6Sの研究の際のデータが散らばっているリポジトリ
-
+ -->*
 ## コンテンツ
 * [LiDARマウント](https://github.com/AtsukiUsui/study_of_intensity/blob/main/LiDAR_mount_UTM30-LX/LIDAR_mount.md)
